@@ -7,3 +7,5 @@ print("Původní pole:", array)
 #Seřazení pole
 sorted_array = sorted(array)
 print("Seřazené pole:", sorted_array)
+
+#Budu pracovat na bubble sortu
